@@ -1,5 +1,5 @@
 # 3DS-TEST
-3DS-TEST is a homebrew button tester for the 3DS, styled after Nintendo's NES Tester.
+3DS-TEST is a homebrew button/pad tester for the 3DS and 2DS systems, styled after Nintendo's NES-TEST.
 Made in Lua with [LövePotion](https://github.com/TurtleP/LovePotion).
 
 Features:
